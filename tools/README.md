@@ -92,7 +92,7 @@ cardano-cli transaction submit \
 
 ```bash
 # Installation
-wget https://github.com/input-output-hk/cardano-wallet/releases/latest/download/cardano-wallet-linux64.tar.gz
+wget https://github.com/IntersectMBO/cardano-wallet/releases/latest/download/cardano-wallet-linux64.tar.gz
 tar -xzf cardano-wallet-linux64.tar.gz
 
 # Run wallet server

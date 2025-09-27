@@ -472,7 +472,7 @@ check_requirements() {
 # Install Cardano Node
 install_node() {
     # Download and install cardano-node
-    curl -sLJ https://github.com/input-output-hk/cardano-node/releases/latest/download/cardano-node-linux.tar.gz \
+    curl -sLJ https://github.com/IntersectMBO/cardano-node/releases/latest/download/cardano-node-linux.tar.gz \
         -o cardano-node.tar.gz
     
     tar -xzf cardano-node.tar.gz

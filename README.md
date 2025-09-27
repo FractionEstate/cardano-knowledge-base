@@ -54,11 +54,11 @@ This knowledge base is organized for easy consumption by AI agents:
 
 Content is curated from authoritative Cardano sources:
 
-- **IntersectMBO** - Cardano governance and development
-- **Cardano Foundation** - Education and adoption
-- **Input Output Global (IOG)** - Research and core development
-- **Txpipe** - Tools and infrastructure
-- **Community Contributors** - Verified community knowledge
+- **IntersectMBO** - Core node development, governance, and protocol maintenance
+- **Cardano Foundation** - Education, adoption, and standards (CIPs)  
+- **Input Output Global (IOG)** - Research, protocol design, and innovation
+- **Txpipe** - Infrastructure tools and developer utilities
+- **Community Contributors** - Verified community knowledge and best practices
 
 ---
 

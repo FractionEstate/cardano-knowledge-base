@@ -784,5 +784,5 @@ monitorMemory('After transaction');
 **Getting Help**: If you're still experiencing issues after trying these solutions, consider:
 - Posting on [Cardano Stack Exchange](https://cardano.stackexchange.com/)
 - Joining the [IOG Technical Discord](https://discord.gg/inputoutput)  
-- Checking [GitHub Issues](https://github.com/input-output-hk/cardano-node/issues) for known problems
+- Checking [GitHub Issues](https://github.com/IntersectMBO/cardano-node/issues) for known problems
 - Reviewing the [Developer Portal](https://developers.cardano.org/) for updated documentation

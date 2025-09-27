@@ -22,10 +22,10 @@ Comprehensive collection of official documentation, tools, tutorials, and commun
 - **Marlowe Documentation**: https://docs.marlowe.iohk.io/
 
 ### IntersectMBO Resources
-- **Cardano Node**: https://github.com/input-output-hk/cardano-node
-- **Cardano CLI Guide**: https://github.com/input-output-hk/cardano-node/blob/master/doc/reference/cardano-cli-reference.md
-- **Cardano Ledger**: https://github.com/input-output-hk/cardano-ledger
-- **Ouroboros Network**: https://github.com/input-output-hk/ouroboros-network
+- **Cardano Node**: https://github.com/IntersectMBO/cardano-node
+- **Cardano CLI Guide**: https://github.com/IntersectMBO/cardano-node/blob/master/doc/reference/cardano-cli-reference.md
+- **Cardano Ledger**: https://github.com/IntersectMBO/cardano-ledger
+- **Ouroboros Network**: https://github.com/IntersectMBO/ouroboros-network
 
 ### Cardano Foundation
 - **CIP Repository**: https://github.com/cardano-foundation/CIPs
@@ -35,17 +35,17 @@ Comprehensive collection of official documentation, tools, tutorials, and commun
 
 ### Input Output Global (IOG)
 - **IOG Engineering Blog**: https://engineering.atalaprism.io/
-- **Plutus Pioneers Program**: https://github.com/input-output-hk/plutus-pioneer-program
+- **Plutus Pioneers Program**: https://github.com/IntersectMBO/plutus-pioneer-program
 - **Marlowe Playground**: https://marlowe-playground.plutus-apps.aws.iohkdev.io/
 - **Research Papers**: https://iohk.io/en/research/library/
 
 ## Technical Specifications
 
 ### Protocol Specifications
-- **Cardano Ledger Specification**: https://hydra.iohk.io/build/16063007/download/1/ledger-spec.pdf
-- **Plutus Core Specification**: https://hydra.iohk.io/build/16064316/download/1/plutus-core-specification.pdf
-- **Byron Ledger Specification**: https://hydra.iohk.io/build/3248806/download/1/ledger-spec.pdf
-- **Shelley Ledger Specification**: https://hydra.iohk.io/build/16061651/download/1/shelley-ledger.pdf
+- **Cardano Ledger Specification**: https://github.com/IntersectMBO/cardano-ledger/tree/master/docs
+- **Plutus Core Specification**: https://plutus.readthedocs.io/en/latest/
+- **Byron Ledger Specification**: https://github.com/IntersectMBO/cardano-ledger/tree/master/docs/Byron
+- **Shelley Ledger Specification**: https://github.com/IntersectMBO/cardano-ledger/tree/master/docs/Shelley
 
 ### Consensus Papers
 - **Ouroboros**: https://eprint.iacr.org/2016/889.pdf
@@ -61,14 +61,14 @@ Comprehensive collection of official documentation, tools, tutorials, and commun
 ## Development Tools
 
 ### Core Development Tools
-- **Cardano Node**: https://github.com/input-output-hk/cardano-node
-- **Cardano CLI**: https://github.com/input-output-hk/cardano-node/tree/master/cardano-cli
-- **Cardano Wallet**: https://github.com/input-output-hk/cardano-wallet
-- **Cardano DB Sync**: https://github.com/input-output-hk/cardano-db-sync
+- **Cardano Node**: https://github.com/IntersectMBO/cardano-node
+- **Cardano CLI**: https://github.com/IntersectMBO/cardano-node/tree/master/cardano-cli
+- **Cardano Wallet**: https://github.com/IntersectMBO/cardano-wallet
+- **Cardano DB Sync**: https://github.com/IntersectMBO/cardano-db-sync
 
 ### Smart Contract Development
-- **Plutus**: https://github.com/input-output-hk/plutus
-- **Plutus Applications**: https://github.com/input-output-hk/plutus-apps
+- **Plutus**: https://github.com/IntersectMBO/plutus
+- **Plutus Applications**: https://github.com/IntersectMBO/plutus-apps
 - **Aiken**: https://aiken-lang.org/
 - **Aiken GitHub**: https://github.com/aiken-lang/aiken
 - **Helios**: https://github.com/Hyperion-BT/Helios
@@ -126,7 +126,7 @@ Comprehensive collection of official documentation, tools, tutorials, and commun
 - **Cardano Academy**: https://cardano-academy.github.io/
 - **Gimbalabs**: https://gimbalabs.com/
 - **Cardano Cube**: https://www.cardanocube.io/
-- **Essential Cardano**: https://github.com/input-output-hk/essential-cardano
+- **Essential Cardano**: https://github.com/IntersectMBO/essential-cardano
 
 ### Video Content
 - **IOG YouTube**: https://www.youtube.com/c/IohkIo
@@ -158,14 +158,14 @@ Comprehensive collection of official documentation, tools, tutorials, and commun
 - **Project Catalyst**: https://projectcatalyst.io/
 
 ### Development Groups
-- **Plutus Community**: https://github.com/input-output-hk/plutus-community
+- **Plutus Community**: https://github.com/IntersectMBO/plutus-community
 - **Cardano Improvement Proposals**: https://github.com/cardano-foundation/CIPs
 - **Cardano Developer Portal**: https://github.com/cardano-foundation/developer-portal
 
 ### Ecosystem Projects
 - **Built on Cardano**: https://builtoncardano.com/
 - **Cardano Ecosystem Map**: https://www.cardanocube.io/cardano-ecosystem-interactive-map
-- **Essential Cardano**: https://github.com/input-output-hk/essential-cardano
+- **Essential Cardano**: https://github.com/IntersectMBO/essential-cardano
 
 ## Research Papers
 
@@ -249,17 +249,17 @@ Comprehensive collection of official documentation, tools, tutorials, and commun
 ### Security Guidelines
 - **Cardano Security Best Practices**: https://developers.cardano.org/docs/get-started/secure-workflow/
 - **Smart Contract Security**: https://plutus.readthedocs.io/en/latest/howtos/writing-a-scalable-app.html
-- **Audit Guidelines**: https://github.com/input-output-hk/plutus/blob/master/doc/security-best-practices.md
+- **Audit Guidelines**: https://github.com/IntersectMBO/plutus/blob/master/doc/security-best-practices.md
 
 ### Security Tools
-- **Plutus Static Analysis**: https://github.com/input-output-hk/plutus
-- **Contract Testing**: https://github.com/input-output-hk/quickcheck-contractmodel
+- **Plutus Static Analysis**: https://github.com/IntersectMBO/plutus
+- **Contract Testing**: https://github.com/IntersectMBO/quickcheck-contractmodel
 - **Security Audit Services**: Various third-party providers
 
 ## Deployment and Operations
 
 ### Infrastructure
-- **Docker Images**: https://hub.docker.com/u/inputoutput
+- **Docker Images**: https://hub.docker.com/u/intersectmbo
 - **Nix Build System**: https://nixos.org/
 - **Kubernetes Helm Charts**: Community provided
 - **Monitoring Tools**: Prometheus, Grafana configurations
